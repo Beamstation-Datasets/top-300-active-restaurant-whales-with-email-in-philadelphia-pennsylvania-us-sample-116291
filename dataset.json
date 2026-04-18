@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nMost popular restaurants in the top range of their local market for proven foot traffic and review volume. \n\nThese are the highest-velocity, actively transacting accounts.\n\n100% of these restaurants have at least one email address. All emails were cleaned and verified in the last 10 days.\n\nBusiness activity validated by an \"Active Heartbeat\" signal in the last 30 days.",
   "config_name": "Top 300 Active Restaurant Whales with Email in Philadelphia, Pennsylvania, US",
-  "export_job_id": "bb415905-c9ce-4b49-b8e7-44ef0231ad17",
+  "export_job_id": "97571216-197f-4616-a142-de20c8dce0bf",
   "github_org": "Beamstation-Datasets",
   "id_short": 116291,
   "location_name": "Philadelphia",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/116291/beamstation_116291_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
   "sample_records": 30,
-  "sample_sha256": "247954e92eba5c11fd040f7f86bdd12cbf1732ed0bad9f58ad9f2d12789196e2",
-  "sample_size_bytes": 146457,
+  "sample_sha256": "188609459fb16758f0fe29f8e66714e59930cf217b47a2c4f197c9a58c4b7d4c",
+  "sample_size_bytes": 141306,
   "total_records": 300,
-  "updated_at": "2026-04-07T17:30:03.601638+00:00"
+  "updated_at": "2026-04-14T23:05:52.764923+00:00"
 }
