@@ -1,12 +1,12 @@
 {
-  "export_job_id": "97571216-197f-4616-a142-de20c8dce0bf",
+  "export_job_id": "f92ed572-9c4f-413e-b0c7-34206746e554",
   "id_short": 116291,
-  "published_at": "2026-04-18T07:22:14Z",
+  "published_at": "2026-04-22T07:04:53Z",
   "repo_name": "top-300-active-restaurant-whales-with-email-in-philadelphia-pennsylvania-us-sample-116291",
   "sample_asset_name": "beamstation_116291_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/116291/beamstation_116291_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_records": 30,
-  "sample_sha256": "188609459fb16758f0fe29f8e66714e59930cf217b47a2c4f197c9a58c4b7d4c",
-  "sample_size_bytes": 141306,
+  "sample_sha256": "155b49751dfedff5fd6fc9c57e15cee0bf63a0b907ded81fc7455452ea70c8de",
+  "sample_size_bytes": 142201,
   "total_records": 300
 }
