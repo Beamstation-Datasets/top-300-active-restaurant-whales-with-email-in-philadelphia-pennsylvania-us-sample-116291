@@ -1,6 +1,6 @@
 # Top 300 Active Restaurant Whales with Email in Philadelphia, Pennsylvania, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `116291` |
 | Location | Philadelphia |
 | Category | Restaurants |
-| Full dataset size | 300 records |
-| Free sample size | 30 records (10.0%) |
-| Last export | 2026-04-22T02:25:00.582266+00:00 |
+| Full dataset size | 95 records |
+| Free sample size | 9 records (9.47%) |
+| Last export | 2026-04-29T05:28:24.160283+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-philadelphia-pennsylvania-us-sample-116291/releases/download/sample-latest/beamstation_116291_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
